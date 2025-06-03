@@ -24,20 +24,26 @@ I’m passionate about building confidence in software, by preventing bugs befor
 
 ## 🛠️ Tech Stack
 
-### 🧪 Test Automation  
-`Playwright` · `Cypress` · `Selenium` · `Newman`
+### 🚀 Test Automation  
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-444444?style=for-the-badge&logo=cypress&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)  
+![Newman](https://img.shields.io/badge/Newman-3e8b93?style=for-the-badge&logo=postman&logoColor=white)
 
-### 💻 Programming Languages  
-`JavaScript` · `Python` · `TypeScript`
-
-### 🔗 API Testing  
-`Postman` · `Newman`
-
-### 🚀 CI/CD  
-`GitHub Actions`
+### 🧪 API Testing  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Newman](https://img.shields.io/badge/Newman-3e8b93?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 Performance  
-`K6`
+![K6](https://img.shields.io/badge/K6-4b4b77?style=for-the-badge&logo=k6&logoColor=white)
+
+### 💻 Programming Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ CI/CD  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
