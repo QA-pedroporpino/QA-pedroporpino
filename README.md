@@ -47,7 +47,7 @@ I’m passionate about building confidence in software, by preventing bugs befor
 
 ---
 
-## 🎬 QA Series – *"Testing the Web"*
+## 🎬 QA Series – *"Behind the Test"*
 
 I'm creating a mini-series where I automate tests on globally recognized platforms, showing real-world problems and test strategies from a QA perspective:
 
