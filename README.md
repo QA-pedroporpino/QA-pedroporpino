@@ -51,7 +51,7 @@ I’m passionate about building confidence in software, by preventing bugs befor
 
 I'm creating a mini-series where I automate tests on globally recognized platforms, showing real-world problems and test strategies from a QA perspective:
 
-- 🎧 **Episode 1** – Testing Spotify as a guest (releasing on **June 13, 2025**)  
+- 🎧 **Episode 1** – Testing Spotify as a guest (releasing on **June 19, 2025**)  
 - 🔐 **Episode 2** – Login flow validation on Netflix (coming soon...)
 - 👟 **Episode 3** – Product filtering and checkout attempt on Nike.com (coming soon...)
 
